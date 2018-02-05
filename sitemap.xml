@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2018/02/05/this-is-a-test/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2018/02/04/my-fist-blog-hahah/</loc>
     <lastmod>2018-02-04T00:00:00+00:00</lastmod>
   </url>
@@ -55,7 +60,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -66,7 +71,7 @@
   
   <url>
     <loc>/tags/markdown/</loc>
-    <lastmod>2018-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,7 +101,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -133,6 +138,12 @@
   <url>
     <loc>/tags/tutorial/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
